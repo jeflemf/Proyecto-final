@@ -8,6 +8,7 @@
    Proyecto: Proyecto final
    Dev: Jefferson Yahir Gonzalez Gonzalez
    Fecha: 23 de Mayo
+   Link de la simulaciòn en tinkercad: https://www.tinkercad.com/things/k4sfFss7s78-2023495-proyecto-final
 */
 //librerias
 #include <Servo.h>
